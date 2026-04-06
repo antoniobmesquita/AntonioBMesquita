@@ -15,9 +15,9 @@
 ---
 
 ## ⚡ Sobre mim
-- Apaixonado por esportes (🏈 Futebol Americano ⚽ Futebol e 🏀 Basquete)  
-- 🎬 Fã de filmes e animações  
-- 📚 Entusiasta de livros e HQs 
+- Esportes (🏈 Futebol Americano ⚽ Futebol e 🏀 Basquete)  
+- 🎬 Filmes e animações  
+- 📚  Livros e HQs 
 
 ---
 
@@ -25,3 +25,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antonio-bazilio-de-mesquita-neto/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:netoa494@gmail.com)
 
+---
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AntonioBMesquita&show_icons=true&theme=nord" />
